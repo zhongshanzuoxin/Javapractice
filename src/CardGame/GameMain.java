@@ -16,9 +16,7 @@ public class GameMain {
 		child.Draw(deck);
 		
 		//ゲーム画面を生成
-		new Display(parent, child);
-		
-		return;
+
 		
 	}
 }
